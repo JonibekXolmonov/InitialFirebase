@@ -3,15 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/drawable/ic_close.xml" value="0.14" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/drawable/ic_logout.xml" value="0.14" />
         <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/drawable/loading_frame.xml" value="0.14" />
         <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/drawable/main_gradient.xml" value="0.14" />
         <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/drawable/shape_circle_orange_light.xml" value="0.14" />
         <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/drawable/universal_background.xml" value="0.14" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/layout/activity_main.xml" value="0.9" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/layout/activity_create.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/layout/custom_progress_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InitialFirebaseApp/app/src/main/res/layout/item_post.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
